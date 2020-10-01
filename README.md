@@ -14,4 +14,4 @@ The dataset used for this project is based on car accidents which have taken pla
 Our Aim is to predict the severity of an accident, considering that, the variable of Severity Code was in the form of integers like 0's,1's and 2's.<br>
 
 You can download the data from the given link below <br>
-https://s3.us.cloud-object-storage.appdomain.cloud/cf-courses-data/CognitiveClass/DP0701EN/version-2/Data-Collisions.csv
+https://www.kaggle.com/ahmedlahlou/accidents-in-france-from-2005-to-2016
