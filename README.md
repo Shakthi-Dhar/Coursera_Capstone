@@ -10,8 +10,8 @@ Road traffic injuries cause considerable economic losses to individuals, their f
 Predicting the severity of an accident taking various attributes like weather, road condition, time, etc into consideration
 
 <h4> Data Description </h4>
-The dataset used for this project is based on car accidents which have taken place within the city of Seattle, Washington from the year 2004 to 2020. This data is regarding the severity of each car accidents along with the time and conditions under which each accident occurred. <br>
-Our Aim is to predict the severity of an accident, considering that, the variable of Severity Code was in the form of 1 (Property Damage Only) and 2 (Physical Injury) which were encoded to the form of 0 (Property Damage Only) and 1 (Physical Injury).<br>
+The dataset used for this project is based on car accidents which have taken place within France from the year 2005 to 2016. This data is regarding the severity of each car accidents along with the time and conditions under which each accident occurred. <br>
+Our Aim is to predict the severity of an accident, considering that, the variable of Severity Code was in the form of integers like 0's,1's and 2's.<br>
 
 You can download the data from the given link below <br>
 https://s3.us.cloud-object-storage.appdomain.cloud/cf-courses-data/CognitiveClass/DP0701EN/version-2/Data-Collisions.csv
