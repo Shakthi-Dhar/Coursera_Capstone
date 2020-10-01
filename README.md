@@ -10,4 +10,6 @@ Road traffic injuries cause considerable economic losses to individuals, their f
 Predicting the severity of an accident taking various attributes like weather, road condition, time, etc into consideration
 
 <h4> Data Description </h4>
-["Data download Link"] https://s3.us.cloud-object-storage.appdomain.cloud/cf-courses-data/CognitiveClass/DP0701EN/version-2/Data-Collisions.csv
+
+You can download the data from the given link below
+["Click on to download"] (https://s3.us.cloud-object-storage.appdomain.cloud/cf-courses-data/CognitiveClass/DP0701EN/version-2/Data-Collisions.csv)
